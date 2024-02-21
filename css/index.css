@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('./../image/back.jpg');
+    
+}
+.navbar{
+background-color: white;
+padding: 12px;
+text-align: end;
+}
+.head{
+    text-decoration: none;
+    padding: 13px;
+    color: black;
+}
+.head:hover{
+    background-color: #a31aff;
+    border-radius: 15px;
+}
+
+.info{
+color: white;
+font-size: 30px;
+text-align: center;
+margin-top: 180px;
+}
