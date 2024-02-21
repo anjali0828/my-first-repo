@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap');
+
+
 body{
     margin: 0;
     padding: 0;
@@ -7,7 +11,8 @@ body{
    purple : #a31aff
    black : 
    white: 
-   footer color : #25255b
+   nav color : #25255b
+   blue: #ccebff
    */
 
    .footer{
@@ -108,3 +113,7 @@ body{
    visibility: visible;
  }
   }
+
+
+
+  
