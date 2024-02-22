@@ -1,28 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap');
 
-body{
-    margin:0;
-    padding: 0;
-    
-}
-
-.navbar{
-    background-color: #25255b;
-    padding: 20px;
-    text-align: center;
-    }
-    .head{
-        text-decoration: none;
-        padding: 15px;
-        color: white;
-        font-size: 35px;
-    }
-    .head:hover{
-        background-color: black;
-        border-radius: 15px;
-    }
-    
-    
     .cartoon{
         padding: 10px;
         margin-top: 60px;
@@ -75,7 +52,7 @@ body{
         font-size: 25px;
          margin-top: 10px;
     }
-    .info{
+    .info1{
         font-size: 17px;
         font-weight: 200;
         margin-top: 10px;

@@ -4,25 +4,82 @@ body{
     background-image: url('./../image/best-travel-background-04ml2h9wywaoo6ei.jpg');
     
 }
-.navbar{
-background-color: #25255b;
-padding: 20px;
-text-align: center;
-}
-.head{
-    text-decoration: none;
-    padding: 15px;
+.footer{
+    display: flex;
+    position: relative;
+   margin-top: 830px;
+   background-color:  #25255b;
+   height: 400px;
+   }
+   
+   .footer_A{
+    width: 280px;
+    height: 210px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+   }
+   .footer_heading{
     color: white;
-    font-size: 35px;
-}
-.head:hover{
-    background-color: black;
-    border-radius: 15px;
+    text-decoration:underline;
+    margin-bottom: 60px;
+    margin-left: 25px ;
 }
 
-.info{
-color: black;
-font-size: 60px;
-text-align: center;
-margin-top: 100px;
-}
+   .footer_info_1{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+   }
+   .footer_link{
+    text-decoration: none;
+    color: white;
+   }
+   .footer_phone{
+    width:30px;
+    height: 30px;
+    position: relative;
+    top: 225px;
+    left: 50px;
+    color: white;
+   }
+   .footer_mail{
+    width:30px;
+    height: 30px;
+    position: relative;
+  top: 268px;
+  left: 20px;
+   }
+   .footer_icons{
+    margin-left: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+   }
+   .footer_icons:hover{
+  box-shadow: 0px 0px 10px 3px white;
+   }
+   .footer_B{
+    margin-left: 20px;
+    margin-top: 20px;
+   }
+   .footer_heading_1{
+    margin-left: 0px;
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 60px;
+
+   }
+   .footer_info_2{
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+   }
+
+   .map{
+    width: 450px;
+    margin-left: 100px;
+    height: 300px;
+    margin-top: 50px;
+   }
+
