@@ -1,6 +1,10 @@
 #Concept:
 
-        ##A travel planner can also refer to a professional travel agent or consultant who assists in creating an itinerary based on the traveler's preferences and needs. In essence, a travel planner simplifies the travel process and makes it more enjoyable and stress-free for the traveler.
+        ##A travel planner can also refer to a professional travel agent or consultant who assists \n
+        
+        in creating an itinerary based on the traveler's preferences and needs.\n
+        
+         In essence, a travel planner simplifies the travel process and makes it more enjoyable and stress-free for the traveler.
 
 
 ---
