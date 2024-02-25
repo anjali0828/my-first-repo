@@ -1,14 +1,14 @@
-#Concept:
+# Concept:
 
-        ##A travel planner can also refer to a professional travel agent or consultant who assists \n
-        
-        in creating an itinerary based on the traveler's preferences and needs.\n
+        ## A travel planner can also refer to a professional travel agent or consultant who assists \n
+
+        in creating an itinerary based on the traveler's preferences and needs. \n
         
          In essence, a travel planner simplifies the travel process and makes it more enjoyable and stress-free for the traveler.
 
 
 ---
-        ##Best travel Package For You
+        ## Best travel Package For You
         Travel package pages added 6 category page added.
 
         1. AFRICAN SAFARI
@@ -25,7 +25,7 @@
 
 
 ---
-#How to contribute in 
+# How to contribute in 
 
  We welcome contributions from the community to help us expand and improve this handbook. If you would like to contribute, follow these steps:
 
